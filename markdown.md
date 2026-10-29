@@ -32,7 +32,7 @@ bienvenida()
 [Ver detalles del proyecto](docs/detalles.md)
 ---
 ![imagen local](assets/mi-imagen.png)
-![Imagen de Wikimedia]([https://upload.wikimedia.org/wikipedia/commons/tu-enlace-de-ejemplo.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/Porsche_718_Boxster_GTS_4.0_25_Years_Edition_in_the_Porsche-Museum_%282009%29_IMG_7436.jpg/960px-Porsche_718_Boxster_GTS_4.0_25_Years_Edition_in_the_Porsche-Museum_%282009%29_IMG_7436.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail))
+![Imagen de Wikimedia](https://commons.wikimedia.org/wiki/File:Porsche_718_Boxster_GTS_4.0_25_Years_Edition_in_the_Porsche-Museum_(2009)_IMG_7436.jpg#/media/File:Porsche_718_Boxster_GTS_4.0_25_Years_Edition_in_the_Porsche-Museum_(2009)_IMG_7436.jpg)
 
 |hola|mundo|
 |---|---|
