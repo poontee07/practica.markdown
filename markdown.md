@@ -1,23 +1,44 @@
-# Guía de Documentación Técnica
+# Prueba-markdown
 
-> Este documento sirve como ejemplo práctico para aprender la sintaxis de Markdown y su publicación en GitHub.
+> realizado por: Iván Ponte López
 
-## Introducción
-
-Markdown es un lenguaje de marcado ligero muy utilizado por desarrolladores para redactar documentación clara y estructurada.
-
+## prueba (párrafo en negrita)
+_prueba_ (párrafo en cursiva)
 ### Características Principales
-
-En esta sección utilizamos **negrita** para resaltar elementos importantes, _cursiva_ para términos específicos y código en línea como `git add` para comandos rápidos.
+`git add` (prueba código en línea)
 
 ---
 
 ## Bloque de Código
-
-A continuación se muestra un ejemplo de script en Python:
-
 ```python
 def bienvenida():
     print("¡Hola! Bienvenidos a la documentación técnica.")
 
 bienvenida()
+```
+---
+
+## LISTA ORDENADA 
+1. prueba
+2. prueba
+3. prueba
+---
+## LISTA DESORDENADA
+- prueba
+  - prueba
+    - prueba
+---
+[google](https://www.google.com)
+[Ver detalles del proyecto](docs/detalles.md)
+---
+![imagen local](../assets/mi-imagen.png)
+![Imagen de Wikimedia](https://upload.wikimedia.org/wikipedia/commons/tu-enlace-de-ejemplo.jpg)
+
+|hola|mundo|
+|---|---|
+|viva|españa|
+|prueba|markdown|
+|tabla|resuelta|
+
+
+
